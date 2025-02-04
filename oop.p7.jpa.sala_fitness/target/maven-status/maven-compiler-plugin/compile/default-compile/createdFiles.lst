@@ -1,0 +1,10 @@
+entity\Client.class
+entity\TestComenzi.class
+entity\ClasaAntrenament.class
+entity\Comanda.class
+entity\Antrenor.class
+entity\Abonament.class
+entity\TestGenerareSchemaSQL.class
+entity\TestUtilizatori.class
+entity\Echipament.class
+entity\Utilizator.class
